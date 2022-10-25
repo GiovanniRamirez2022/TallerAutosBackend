@@ -1,1 +1,5 @@
 # TallerAutosBackend
+
+Una empresa automotriz llamada “Mantenimiento Tic" ha solicitado un startup para ofrecer el servicio de mantenimiento preventivo y correctivo a dos tipos de vehículos (autos y camionetas), este servicio se ofrece en la ciudad de Manizales y diferentes personas de todo el país recurren a este sitio ya que hasta el día de hoy ha prestado un excelente servicio. Es importante que se tenga un registro histórico de las revisiones generales al igual que de la instalación de repuestos, actualizaciones en el software del vehículo y datos de los clientes; esto permite que posteriormente se realicen análisis por parte de la empresa automotriz.
+
+Para lo anterior, la aplicación deberá Permitir registrar y consultar la información de los registros de las revisiones, cambios de repuestos que se han realizado a diferentes vehículos registrando la información de clientes. De esta manera se estaría haciendo uso de las tecnologías de la información para apoyar uno de los procesos de la empresa, contribuyendo así a cumplir con la reglamentación y también a disminuir todo el proceso manual que han realizado hasta el día de hoy.
